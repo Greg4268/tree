@@ -1,0 +1,10 @@
+[workspace]
+authors = ["beautiful <135546587+Greg4268@users.noreply.github.com>"]
+channels = ["conda-forge"]
+name = "tree"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
