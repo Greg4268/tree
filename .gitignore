@@ -2,3 +2,5 @@
 .DS_Store
 .pixi/*
 !.pixi/config.toml
+pixi.toml
+pixi.lock
