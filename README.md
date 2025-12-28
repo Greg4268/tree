@@ -1,5 +1,6 @@
 # tree by Greg 
-### <i> my take on the 'tree' command line tool for MacOS </i>
+
+> my take on the 'tree' command line tool for MacOS 
 
 
 
@@ -21,17 +22,20 @@
 5. run your script! 
 
 ## Command Line Arguments 
-Exclude Dotfiles 
+### Exclude Dotfiles 
+
 Description: When included, will exclude dotfiles from tree 
 ```bash
 --exclude-dotfiles 
 ``` 
-Max Depth 
+### Max Depth 
+
 Description: When added with integer following, will set a max depth of subtrees 
 ```bash
 --max-depth {integer}
 ``` 
-Root
+### Root
+
 Description: true = run tree from Users/{username}/ | false = run tree from current working directory 
 ```bash
 --root 
